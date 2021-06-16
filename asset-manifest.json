@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spring-example-frontend/static/css/main.e3815201.chunk.css",
+    "main.js": "/spring-example-frontend/static/js/main.5bfae53e.chunk.js",
+    "main.js.map": "/spring-example-frontend/static/js/main.5bfae53e.chunk.js.map",
+    "runtime-main.js": "/spring-example-frontend/static/js/runtime-main.602e2433.js",
+    "runtime-main.js.map": "/spring-example-frontend/static/js/runtime-main.602e2433.js.map",
+    "static/js/2.f1022ad0.chunk.js": "/spring-example-frontend/static/js/2.f1022ad0.chunk.js",
+    "static/js/2.f1022ad0.chunk.js.map": "/spring-example-frontend/static/js/2.f1022ad0.chunk.js.map",
+    "static/js/3.ce08591e.chunk.js": "/spring-example-frontend/static/js/3.ce08591e.chunk.js",
+    "static/js/3.ce08591e.chunk.js.map": "/spring-example-frontend/static/js/3.ce08591e.chunk.js.map",
+    "index.html": "/spring-example-frontend/index.html",
+    "static/css/main.e3815201.chunk.css.map": "/spring-example-frontend/static/css/main.e3815201.chunk.css.map",
+    "static/js/2.f1022ad0.chunk.js.LICENSE.txt": "/spring-example-frontend/static/js/2.f1022ad0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602e2433.js",
+    "static/js/2.f1022ad0.chunk.js",
+    "static/css/main.e3815201.chunk.css",
+    "static/js/main.5bfae53e.chunk.js"
+  ]
+}
