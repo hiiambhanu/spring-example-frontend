@@ -1,7 +1,6 @@
 {
   "name": "spring-course-frontend",
   "version": "0.1.0",
-  "homepage": "https://hiiambhanu.github.io/spring-example-frontend",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
